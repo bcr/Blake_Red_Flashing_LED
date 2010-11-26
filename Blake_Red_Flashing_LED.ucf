@@ -1,0 +1,2 @@
+NET "LED_RED" LOC = P115;
+NET "CLK" LOC = P57;
